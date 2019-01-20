@@ -3,6 +3,13 @@ package com.java.DataStructures;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+* The HashMap program using Arraylist and LinkedList which is inspired but coded with clear understanding
+*
+* @author  Sreemanth Jasti
+* @version 1.0
+* @since   2019-01-19 
+*/
 class Hashnode<K, V> {
 
 	K key;
